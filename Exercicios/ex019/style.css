@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+
+/*em HTML id =  em CSS #
+em HTML class = em CSS .
+*/
+body {
+    background-color: rgb(44, 120, 233);
+}
+
+h1 {
+    color: rgb(11, 9, 126);
+    text-shadow: 1px 1px 0px rgb(31, 30, 30);
+    text-align: center;
+}
+
+h1#principal {
+    color: white;
+    text-align: center;
+    background-color: rgb(7, 21, 97);
+}
+
+h2 {
+    color:  rgb(63, 60, 224);
+    text-shadow: 1px 1px 0px rgb(31, 30, 30);
+}
+
+.basico {
+    color:  rgb(15, 78, 7);
+}
+
+.intermediario {
+    color:  rgb(149, 172, 22);
+}
+
+.avancado {
+    color: rgb(175, 17, 17);
+}
+
+.destaque {
+    background-color: rgba(76, 128, 206, 0.568);
+}
